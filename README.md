@@ -28,6 +28,3 @@ A simple console‑based Library Management System built with Python and MySQL. 
 
 - Python 3.x  
 - `mysql-connector-python` library (`pip install mysql-connector-python`)  
-- MySQL database with these tables:
-
-[click here to view live demo]( https://unnati-jaiswal24.github.io/informatics-library/)
